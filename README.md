@@ -11,3 +11,5 @@ lob/main/hackeru-logo.png" width="150"/>
 ## Statistics
 
 ## Visual Communications
+
+testing testing
